@@ -15,8 +15,6 @@ Verify
 ```
 curl --cacert http_ca.crt -u elastic:39a6sW-v_rX+isCACuKc https://localhost:9200
 
-
-
 {
   "name" : "7382ea15cd43",
   "cluster_name" : "docker-cluster",
